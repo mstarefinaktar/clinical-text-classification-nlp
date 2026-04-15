@@ -75,8 +75,6 @@ LIME (Local Interpretable Model-agnostic Explanations) for individual prediction
 │   ├── Phase2_BERT_Finetuning.ipynb
 │   ├── Phase3_Numeric_Mapping_Ablation.ipynb
 │   └── Phase4_Explainable_AI.ipynb
-├── paper/
-│   └── clinical_nlp_paper.tex
 └── figures/
     └── (exported from notebooks)
 ```
